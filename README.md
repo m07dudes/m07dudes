@@ -6,7 +6,7 @@
 - **Tools**: Git, GitHub, VS Code
 
 ## GitHub Stats 📊
-![image](https://github.com/user-attachments/assets/ea7f8652-0be4-401c-a11c-c6ab2afdcdee)
+![image](https://nirzak-streak-stats.vercel.app/?user=m07dudes&theme=monokai&hide_border=false)
 
 
 
