@@ -1,5 +1,5 @@
 # Hi, I'm m07 👋
-16 Year Old Developer.
+16 Years Old Developer.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m07dudes) 
